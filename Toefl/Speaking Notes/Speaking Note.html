@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<title>Speaking Note</title>
+
+
+<style type="text/css">
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px; }
+
+body > *:first-child {
+  margin-top: 0 !important; }
+body > *:last-child {
+  margin-bottom: 0 !important; }
+
+a {
+  color: #4183C4; }
+a.absent {
+  color: #cc0000; }
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative; }
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+  text-decoration: none; }
+
+h1 tt, h1 code {
+  font-size: inherit; }
+
+h2 tt, h2 code {
+  font-size: inherit; }
+
+h3 tt, h3 code {
+  font-size: inherit; }
+
+h4 tt, h4 code {
+  font-size: inherit; }
+
+h5 tt, h5 code {
+  font-size: inherit; }
+
+h6 tt, h6 code {
+  font-size: inherit; }
+
+h1 {
+  font-size: 28px;
+  color: black; }
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  color: #777777;
+  font-size: 14px; }
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0; }
+
+hr {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
+
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0; }
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0; }
+
+li p.first {
+  display: inline-block; }
+li {
+  margin: 0; }
+ul, ol {
+  padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+  margin-top: 0; }
+
+dl {
+  padding: 0; }
+  dl dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 15px 0 5px; }
+    dl dt:first-child {
+      padding: 0; }
+    dl dt > :first-child {
+      margin-top: 0; }
+    dl dt > :last-child {
+      margin-bottom: 0; }
+  dl dd {
+    margin: 0 0 15px;
+    padding: 0 15px; }
+    dl dd > :first-child {
+      margin-top: 0; }
+    dl dd > :last-child {
+      margin-bottom: 0; }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+table {
+  padding: 0;border-collapse: collapse; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+img {
+  max-width: 100%; }
+
+span.frame {
+  display: block;
+  overflow: hidden; }
+  span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 13px 0 0;
+    padding: 7px;
+    width: auto; }
+  span.frame span img {
+    display: block;
+    float: left; }
+  span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 5px 0 0; }
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: center; }
+  span.align-center span img {
+    margin: 0 auto;
+    text-align: center; }
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px 0 0;
+    text-align: right; }
+  span.align-right span img {
+    margin: 0;
+    text-align: right; }
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left; }
+  span.float-left span {
+    margin: 13px 0 0; }
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right; }
+  span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: right; }
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb
+}
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+}
+@media print {
+	table, pre {
+		page-break-inside: avoid;
+	}
+	pre {
+		word-wrap: break-word;
+	}
+}
+</style>
+
+
+</head>
+
+<body>
+
+<h1 id="toc_0">Corpus</h1>
+
+<p>1.Family</p>
+
+<ul>
+<li><a href="#1">Day1</a></li>
+</ul>
+
+<p>2.Culture</p>
+
+<ul>
+<li><a href="#2">Day2</a></li>
+<li><a href="#8">Day8</a></li>
+</ul>
+
+<p>3.Personality</p>
+
+<ul>
+<li><a href="#3">Day3</a></li>
+</ul>
+
+<p>4.Environment</p>
+
+<ul>
+<li><a href="#4">Day4</a></li>
+<li><a href="#19">Day19</a></li>
+</ul>
+
+<p>5.Activity</p>
+
+<ul>
+<li><a href="#5">Day5</a></li>
+<li><a href="#13">Day13</a></li>
+<li><a href="#20">Day20</a></li>
+</ul>
+
+<p>6.Education</p>
+
+<ul>
+<li><a href="#2">Day2</a></li>
+<li><a href="#6">Day6</a></li>
+<li><a href="#5">Day5</a></li>
+<li><a href="#10">Day10</a></li>
+<li><a href="#11">Day11</a></li>
+<li><a href="#16">Day16</a></li>
+</ul>
+
+<p>7.Hobby</p>
+
+<ul>
+<li><a href="#5">Day5</a></li>
+<li><a href="#2">Day2</a></li>
+<li><a href="#12">Day12</a></li>
+<li><a href="#18">Day18</a></li>
+<li><a href="#20">Day20</a></li>
+</ul>
+
+<p>8.Friendship</p>
+
+<ul>
+<li><a href="#9">Day9</a></li>
+</ul>
+
+<p>9.Travel</p>
+
+<ul>
+<li><a href="#12">Day12</a></li>
+<li><a href="#13">Day13</a></li>
+</ul>
+
+<p>10.Job</p>
+
+<ul>
+<li><a href="#17">Day17</a></li>
+</ul>
+
+<h2 id="1"> Day 1 </h2>
+
+<ul>
+<li>Topic </li>
+</ul>
+
+<p>Topic: Do you think, nowadays, it is more important for people to have dinner regularly with their family? </p>
+
+<ul>
+<li>Outline </li>
+</ul>
+
+<p>Yes it is important to have dinner regularly with family 和家人经常一起聚一聚吃饭非常重要</p>
+
+<p>R1: excellent chance for more bonding time 是一个非常好的沟通感情的时间与机会</p>
+
+<p>R2: chance to resolve conflicts 是一个化解家庭矛盾的机会</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>intentional 故意的 蓄意的</p>
+
+<p>hang out with 与…出去玩 与…闲逛</p>
+
+<p>resolve 解决</p>
+
+<p>natural opportunities 自然的机会</p>
+
+<ul>
+<li>Pronunciation</li>
+</ul>
+
+<p>more 不要带儿化音</p>
+
+<ul>
+<li>Extentions
+
+<ul>
+<li>Keep in touch</li>
+<li>Mutually respect and love</li>
+</ul></li>
+</ul>
+
+<h2 id="2"> Day 2 </h2>
+
+<ul>
+<li>Topic</li>
+</ul>
+
+<p>Topics: Do you think the high school should teach music and arts in addition to other basic science subjects?</p>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>High schools should definitely teach art. 艺术应该在高中教</p>
+
+<p>R1: art enhances creativity 艺术增强创造力</p>
+
+<p>R2: art is a connector 艺术是一个连接器</p>
+
+<p>R3: art enables us to understand ourselves 艺术让我们可以更加了解我们自己</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>carve a soul into a masterpiece：表示把某人的灵魂和性格塑造的杰出</p>
+
+<p>illuminate, expand and deepen：意为艺术可以阐明、扩展和加深其他的学科</p>
+
+<p>It is through…that we do：是一个强调句式，表示我们正是通过……来做到，是非常好的写作句式</p>
+
+<p>broader humanistic education 更为广阔的人文教育</p>
+
+<ul>
+<li>Pronunciation </li>
+</ul>
+
+<p>without, art  尾音做口型不发音</p>
+
+<ul>
+<li>Extentions
+
+<ul>
+<li>My favorite subject is Singing</li>
+<li>Mold character</li>
+<li>Gain charisma</li>
+<li>Express myself</li>
+</ul></li>
+</ul>
+
+<h2 id="3"> Day 3 </h2>
+
+<ul>
+<li>Topic</li>
+</ul>
+
+<p>Some people argue that people born with natural abilities are more likely to succeed. Other people believe success can be achieved through hard work. What is your opinion?#personality?</p>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>后天努力比天赋更重要</p>
+
+<p>R1: hard work can make up for inadequacies 后天努力可以弥补不足</p>
+
+<p>R2: gifted people are even more hard working 有天赋的人也许更努力</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>self-awareness 自我意识</p>
+
+<p>willpower 意志力；毅力</p>
+
+<p>inadequacy 不足之处</p>
+
+<p>self-propel engine 自我推动的引擎</p>
+
+<p>churn 搅动 运转</p>
+
+<p>profoundly gifted 天赋异禀</p>
+
+<ul>
+<li>Pronunciation</li>
+</ul>
+
+<p>inadequacy 注意连读</p>
+
+<ul>
+<li>Extentions
+
+<ul>
+<li>Talent’s greatest strength—the ability to be naturally better than your peers—leads to talent’s greatest weakness—tricking the mind that you don’t need to work hard.</li>
+<li>Do you believe talent?
+
+<ul>
+<li>Yes!</li>
+<li>1st: Football players like Messi ...</li>
+<li>2nd: Theory of evolution, talents make evolve</li>
+</ul></li>
+<li>Everyone has talent</li>
+<li>Talent guides what we should do</li>
+</ul></li>
+</ul>
+
+<h2 id="4"> Day 4 </h2>
+
+<ul>
+<li>Topic </li>
+</ul>
+
+<p>Many cities have problems with traffic congestion (traffic jams). What do you think a city should do to deal with traffic jams and why?</p>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>怎样解决交通拥堵</p>
+
+<p>R1: build more roads and bridges 建设更多道路</p>
+
+<p>R2: redesign the transportation system to include 
+technology 重新设计交通系统</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>ramification 衍生后果 派生影响</p>
+
+<p>overpass 天桥</p>
+
+<p>commuters 通勤者</p>
+
+<p>embed 嵌入</p>
+
+<p>sophisticated 复杂的 精致的</p>
+
+<ul>
+<li>pronunciation</li>
+</ul>
+
+<p>sophisticated</p>
+
+<ul>
+<li>Extentions
+
+<ul>
+<li>Charge peak hour tolls</li>
+<li>Collect electronically with &quot;smart cards&quot; </li>
+</ul></li>
+</ul>
+
+<h2 id="5"> Day 5 </h2>
+
+<ul>
+<li>Topic</li>
+</ul>
+
+<p>If given the opportunity to participate in a free class this weekend, which of the following would you choose: Public speaking, starting your own business, or photography? Why?</p>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>I prefer photography. 更喜欢学习摄影</p>
+
+<p>R1: photography helps people to remember 摄影帮助人们纪念
+与回忆。</p>
+
+<p>R2: photography is artistic 摄影是艺术的创作</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>cherish 珍爱</p>
+
+<p>crystal clear 完全透明的 极其明白</p>
+
+<p>creative outlet 创造性的出路</p>
+
+<p>intrinsic 本质的，固有的 内在的</p>
+
+<ul>
+<li>Extentions
+
+<ul>
+<li>More powerful than I actually observed</li>
+<li>Can be shared</li>
+</ul></li>
+</ul>
+
+<h2 id="6"> Day 6 </h2>
+
+<ul>
+<li>Topic </li>
+</ul>
+
+<p>Some students prefer to study in a library. Others prefer to study at home or in their dormitory. Which one do you prefer and why?</p>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>I prefer to study in a library 更喜欢在图书馆学习</p>
+
+<p>R1: atmosphere is more suitable for studying 图书馆气氛更适合学习</p>
+
+<p>R2: associate dorms with relaxing 在宿舍太过放松容易睡着</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>isolated area 孤立区域 隔离区</p>
+
+<p>associate with 联合 与…联系在一起, 和…来往</p>
+
+<p>situated next to…毗邻</p>
+
+<ul>
+<li>Extentions
+
+<ul>
+<li>Library is an academically centered environment</li>
+<li>Domitory is a place that relates to rest</li>
+<li>Learning together gives me vigor</li>
+<li>Problems can be solved together</li>
+</ul></li>
+</ul>
+
+<h2 id="8"> Day 8 </h2>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>the news event is the G20 summit in Hangzhou</p>
+
+<p>R1: a first time and significant event for China 对中国来说第一次并且十分有意义</p>
+
+<p>R2: a great evening gala demonstrating China’s uniqueness 晚会非常代表中国特色</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>signaled a new phase：象征一个新的时期，写作口语常用短语</p>
+
+<p>“One Belt, One Road” &amp; the &quot;Asian Infrastructure and Investment Bank&quot;：一带一路和亚投行，都是比较不错的口语和写作素材</p>
+
+<p>initiative n. 法案 倡议</p>
+
+<p>evening gala：晚会，聚会</p>
+
+<p>positive vibe：积极的氛围</p>
+
+<ul>
+<li>Extentions
+
+<ul>
+<li>news event
+
+<ul>
+<li>economic news</li>
+<li>cultural news</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h2 id="9"> Day 9 </h2>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>Giving practical gifts are better 实用的礼物更好</p>
+
+<p>R1: practical gifts are easy to pick out and won&#39;t be a waste. 选择实用的礼物很便利，并且肯定有用。</p>
+
+<p>R2: practical gifts are more valuable 实用的礼物更加有价值</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>necessity 需要；必然性；必需品</p>
+
+<p>not only….but 不仅…而且</p>
+
+<p>picks sth. up 得到；恢复；捡起</p>
+
+<p>affection 喜爱，感情</p>
+
+<p>lifespan 寿命；预期生命期限；预期使用期限</p>
+
+<ul>
+<li>Extentions 
+
+<ul>
+<li>meticulously chosen</li>
+<li>remind me of the relationship</li>
+<li>invaluable</li>
+<li>On condition that you care about someone indeed, you actually do not need to express yourself with an expensive object.</li>
+</ul></li>
+</ul>
+
+<h2 id="10"> Day 10 </h2>
+
+<ul>
+<li>Outline
+Expulsion is not a good idea 开除不是一个好的主意</li>
+</ul>
+
+<p>R1: ends students’ academic life 终结学生的学习生涯</p>
+
+<p>R2: adverse effects on students’ personality 对性格造成不良影响</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>expel 驱逐；开除</p>
+
+<p>harsh 严厉的；严酷的</p>
+
+<p>in a phrase 简言之</p>
+
+<p>spoiled 被宠坏的 损坏的</p>
+
+<p>dismiss 解散；解雇</p>
+
+<ul>
+<li><p>Extentions</p>
+
+<ul>
+<li>Being uneducated limits career opportunities because without education students will not be hired for good job. </li>
+<li>If I find my friend cheat in an exam, I will not blow a whitle: 1st he will be expelled. 2nd he will be uneducated. 3rd a destructive effect on his life ... Instead, tell the ad and disad...</li>
+</ul></li>
+</ul>
+
+<h2 id="11"> Day 11 </h2>
+
+<ul>
+<li>Outline
+Choose art class 选择艺术课</li>
+</ul>
+
+<p>R1: art makes me happy 艺术使人快乐</p>
+
+<p>R2: art helps to relive stress 艺术可以减压</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>doubt 怀疑；疑问；疑惑</p>
+
+<p>without doubt 毫无疑问</p>
+
+<p>sculpt 造型；雕刻</p>
+
+<p>take care of…照顾；注意；抚养</p>
+
+<p>credit 信用 学分</p>
+
+<ul>
+<li>Extentions</li>
+</ul>
+
+<p>Artists are sensitive, enthusiastic and expressionistic. You will find yourself incline to fall in love with their personality and character. They are comprehensively great persons, who can be your life-long friends.</p>
+
+<h2 id="12"> Day 12 </h2>
+
+<ul>
+<li>Outline
+喜欢一个人旅游</li>
+</ul>
+
+<p>R1: one can get to know himself/herself better 可以更了解自己</p>
+
+<p>R2: be content with the moment and be refreshed 让自己放松满足从新开始</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>travel companion：旅伴</p>
+
+<p>raw experiences：全新的体验</p>
+
+<p>be content with the moment：满足于眼前、现状</p>
+
+<p>a fresh set of eyes：以全新的视角</p>
+
+<ul>
+<li><p>Extentions</p>
+
+<p>places you like:</p>
+
+<ul>
+<li>superb scenery</li>
+<li>fascinating history</li>
+<li>friendly people</li>
+</ul></li>
+</ul>
+
+<h2 id="13"> Day 13 </h2>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>definitely go to the moon 当然会去！</p>
+
+<p>R1: want to experience weightlessness 想体验失重感 特别酷！</p>
+
+<p>R2: there is no wind 月球上没有风</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>dome 圆屋顶 半球形</p>
+
+<p>footsteps 脚步 脚印</p>
+
+<p>cast in stone 坚如磐石 板上定钉</p>
+
+<ul>
+<li>Extentions</li>
+</ul>
+
+<p>... entice me 表示吸引</p>
+
+<p>... as conspicuous as ... ...像...一样显著</p>
+
+<p>delight my life</p>
+
+<h2 id="15"> Day 15 </h2>
+
+<ul>
+<li>Outline
+living without TV will be tough 生活在没有电视会很艰难</li>
+</ul>
+
+<p>R1: TV is my source of imagination 电视是我的灵感的来源</p>
+
+<p>R2: missing out on important shows 会错过节目，被剧透</p>
+
+<ul>
+<li>Vocabulary &amp; Phrases</li>
+</ul>
+
+<p>lies within…就在其中</p>
+
+<p>creative and juicy ideas 生动的富有创造力的想法</p>
+
+<p>omnipresent 无所不在的</p>
+
+<p>obtrusive 突出的；强迫人的；冒失的</p>
+
+<p>amplified 放大</p>
+
+<p>antagonising 对…起反作用</p>
+
+<p>spoilers 剧透</p>
+
+<ul>
+<li>Extentions</li>
+</ul>
+
+<p>noteworthy benefits 值得注意的好处</p>
+
+<h2 id="16"> Day 16 </h2>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>Time management is essential 时间管理非常重要</p>
+
+<p>R1: improve study efforts 提升学习效率和成果</p>
+
+<p>R2: help us save time and relieve stress 帮助省时并且减压</p>
+
+<ul>
+<li>Vocabulary</li>
+</ul>
+
+<p>possess 控制；使掌握</p>
+
+<p>conflicting 冲突的；相矛盾的</p>
+
+<p>demand 要求；需要</p>
+
+<p>allocate 分配</p>
+
+<p>job hunting 找工作，求职</p>
+
+<p>vital 至关重要的</p>
+
+<h2 id="17"> Day 17 </h2>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>There are always ways if he tries 如果尝试总能找到赚钱的办法</p>
+
+<p>R1: participating in laboratorial studies 参加实验研究</p>
+
+<p>R2: work at a restaurant 在快餐店工作</p>
+
+<ul>
+<li>Vocabulary</li>
+</ul>
+
+<p>resilience 韧性</p>
+
+<p>ingenuity 心灵手巧，独创性</p>
+
+<p>laboratorial 实验室的，实验的</p>
+
+<p>pharmaceutical 制药(学)的</p>
+
+<p>clinical trials 临床试验</p>
+
+<p>classified sites 分类网站</p>
+
+<p>glamorous 迷人的，富有魅力的</p>
+
+<ul>
+<li>Extentions</li>
+</ul>
+
+<p>Summer Vacation:</p>
+
+<ul>
+<li>work: earn money; experience; meet professionals</li>
+</ul>
+
+<h2 id="18"> Day 18 </h2>
+
+<ul>
+<li>outline</li>
+</ul>
+
+<p>(games)</p>
+
+<p>Play for fun 为了乐趣开心而玩</p>
+
+<p>R1: you cannot always win 不可能总是赢</p>
+
+<p>R2: playing for fun can actually help you to learn </p>
+
+<p>something 不一味的追求胜利其实可以学习到东西</p>
+
+<ul>
+<li>Vocabulary</li>
+</ul>
+
+<p>undoubtedly 确实地，毋庸置疑的</p>
+
+<p>rank 排名</p>
+
+<p>server 处理器</p>
+
+<p>get sth out of sth…从…中得到…</p>
+
+<p>opponent 对手</p>
+
+<ul>
+<li>Extentions</li>
+</ul>
+
+<p>Playing computer games:</p>
+
+<p>relax; enhance friendships; good to brains</p>
+
+<h2 id="19"> Day 19 </h2>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>搬到大城市不仅方便还有无限可能</p>
+
+<p>R1: big cities make people’s lives convenient and 
+efficient 大城市使人们的生活方便高效。</p>
+
+<p>R2: big cities opens up endless possibilities 大城市有无限可能永远不会无聊</p>
+
+<ul>
+<li>Vocabulary</li>
+</ul>
+
+<p>hustle and bustle：熙熙攘攘，忙碌的生活</p>
+
+<p>thriving public transportation：越来越发达的公共交通</p>
+
+<p>modern infrastructure：现代化的基础设施</p>
+
+<p>rare occasion：小概率事件</p>
+
+<p>run out of something to do：无事可做</p>
+
+<ul>
+<li>Extentions</li>
+</ul>
+
+<p>Study/work faraway: meet people with different custom;
+explore new culture; see new scenaries; broaden horrizon
+    - count on 盼望</p>
+
+<h2 id="20"> Day 20 </h2>
+
+<ul>
+<li>Outline</li>
+</ul>
+
+<p>outdoor camping is the best activity 野外露营是最好的活动</p>
+
+<p>R1: teaches students to be cooperative and united 教会学
+生合作和团结</p>
+
+<p>R2: shortens emotional distance between students 缩短了学生之间的情感距离</p>
+
+<ul>
+<li>Vocabulary</li>
+</ul>
+
+<p>enhance 提高；加强</p>
+
+<p>cooperative 合作的</p>
+
+<p>united 一致的 团结的</p>
+
+<p>deal with 处理</p>
+
+<p>scenario 情节 情境</p>
+
+<p>in a nutshell 极其简括地说 简单地说
+</p>
+
+
+
+
+</body>
+
+</html>

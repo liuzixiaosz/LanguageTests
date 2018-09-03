@@ -1,0 +1,51 @@
+amazing:startling,striking,spectacular
+interesting:amusing,meaningful
+fast:rapid,speedy
+slow:tardy
+bad:nauseous,objectionable,offensive,unpleasant,intolerable,horrible,obnoxious,terrible,awful,dreadful,vile,depraved,evil,wicked,corrupted,immoral,dissolute,dishonest,depraved,victious
+good:fabulous,virtuous,enjoyable,splendid,superb,fantastic,impressive,grand,magnificant,significant,agreeable,pleasurable,gratifying,considerate
+because:since,as a consequence of,as a result of,due to,owing to,on account of,thanks to
+therefore:consequently,as a consequence,subsequently,accordingly
+however:on the other hand,conversely,alternatively,in contrast,whereas,while,nonetheless,nevertheless,thereby,by this means
+know:realize,notice,be aware of,comprehend
+use:bestow,consume,utilize,take advantage of,employ,utilize,apply,exploit
+make:impel,propel,render,cause,decree,incur
+many:piles of,mountainous,numerous,frequent,abundant,copious,plentiful,ample,profuse
+finish:accomplish,achieve,complete,finalize,conclude
+way:method,technique,condition,mean
+real:authentic,genuine,indisputable,unadulterated,sincere,existent
+agree:consent,permit,concur,correspond,coincide
+boring:bland,insipid,adj.uninteresting,tedious,dull,dreary,mind-numbing
+same:congrent,consistent,matching,identical
+different:incongruent,diverse,become poles apart
+praise:extol,exalt,eulogize,admire
+important:cardinal,vital,critical,imperative,essential,chief,crucial,authoritative
+capable:adroit,skillful,numble
+make bad:deteriorate,adroit,depreciate,deflate
+among:amid,in the midst of
+basic:rudimentary,elementary,fundamental
+cancel:withdraw,scrach
+deny:disprove,refute,negate,contradict,disavow
+agree:espouse,approve,endorse
+stop:thwarts,forestall,impede,hinder
+illustrate:signify,formulate,maintain,affirm
+after that:henceforth,thereafter
+despite:notwithstanding,regardless of
+advantage:preponderance
+decrese:allay,dewindle,diminish,cutback(n),diminution(n)
+big:gigantic,spacious,bulky
+happy:throng,delighted,convivial
+mix:mingle,commix
+shiny:flamboyant,ablaze
+fair:just,impartial,righteous,candid
+rival:contender,competitor,contestant,challenger
+pretended:histroonic,affectation(n)
+grab:clutch,seize,grasp
+careful:wary,watchful
+think:ponder,deem,contemplate,deliberate
+cause:incur,render,prompt
+obviou:apparent,conspicuous,overt,distinct
+ensure:ascertain,affirm,assert,notarize
+relevant:pertinent,correlative,interrelated,associative
+totally:sweeping,entirely,thoroughly
+popular:prevailing,of mainstream
