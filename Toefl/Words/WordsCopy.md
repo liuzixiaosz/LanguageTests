@@ -122,7 +122,7 @@ The former investment banker has not been **indolent**: his department has been 
 
 Will it be the *resilient* nation that rose from the ashes of World War II or the country that has become better known over the past two decades for its economic and social **torpor**?
 
-The speaker played to the gallery by indulging in **vulgar** jokes.
+The speaker played to the gallery by *indulging* in **vulgar** jokes.
 
 All the fighters landed safely on the airport after the military **maneuver**.
 

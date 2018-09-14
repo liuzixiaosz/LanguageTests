@@ -7,15 +7,14 @@ dict = {}
 
 
 def read_all():
-    line = file.readline()
-    while len(line) > 0:
+    all_lines = file.readlines()
+    for line in all_lines:
         sepered = line.split(":")
         try:
             all_alt = sepered[1].strip().split(",")
         except IndexError:
             all_alt = sepered[1].strip()
         dict[sepered[0]] = all_alt
-        line = file.readline()
 
 
 if __name__ == '__main__':

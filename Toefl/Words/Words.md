@@ -36,17 +36,11 @@ In the mean time, there is another undercover inside the police office. Smith, s
 
 China and the United States concluded [entered into] a **bilateral** trade agreement after long negotiations.
 
-It was Smith who gave a secret call to Eric one minute before and Eric commands his men on the lake throwing away every cargo immediately. Everything happens **ephemerally** and the men of Eric survived a **calamitous** result although a loss of million CNY **inevitably** occured. 
-
 It is a deeper, more **abiding** emotion.
-
-Drink a glass of wine, coffee, or tea, read a good book, or watch a good movie. Look at old photographs and **reminisce**.
 
 Against that time do I **ensconce** me here.
 
 The first is Obama's aversion to the **artifice** of politics.
-
-To slow the spoiling process, **stash** them in the refrigerator immediately.
 
 The American public might **acquiesce** to climate aid to China if it were sold as a kind of trade stimulus or partnership, however.
 
@@ -54,7 +48,7 @@ All she could do now was to *shun* the **scornful** gaze of men, and to bear in 
 
 The former investment banker has not been **indolent**: his department has been a factory for acronyms since the crisis began.
 
-The speaker played to the gallery by indulging in **vulgar** jokes.
+The speaker played to the gallery by *indulging* in **vulgar** jokes.
 
 All the fighters landed safely on the airport after the military **maneuver**.
 
@@ -89,8 +83,6 @@ He remains fit and healthy and shows no sign of **lethargy**.
 Rise in the presence of the aged, show respect for the elderly and **revere** your God. I am the Lord .
 
 But I don't see how North Korea can use it to **extort** anything.
-
-Do not drive or operate machinery until the next day, as the *sedatives* given will **impair** your *reflexes*.
 
 the **salient** points or features of something are the most important or most noticeable parts of it.
 
@@ -176,8 +168,6 @@ You are pleased to **scoff**.
 
 Even with the continual addition of new and wider roads, cities like Beijing cannot *confiscate* land, **demolish** residential buildings, and build roads fast enough to accommodate all these new cars.
 
-You work with someone you think is lazy and **resent** him for it.
-
 Neo **expeditiously** has a secret contact with Leo but he didn't know that Eric's plan is to test his member **exclusively**. In other words, Eric tests all of the suspected team members, one by one with every tangible case.Eric notifies every men that the deal of guns is canceled. Indeed the gun purchaser is designated by Eric and there is actually no bank job. He just wants to see if the police will arrest the pretended robber in the bank or not as soon as the robber take off the toy gun.
 
 **Endowing** the *distrusted* team member, for example Neo, more confidence, he can catch the undercover even more easily on his concern. 
@@ -185,8 +175,6 @@ Neo **expeditiously** has a secret contact with Leo but he didn't know that Eric
 He showed the greatest [the **utmost**] patience.
 
 Exactly they pursue the spirit of dream to let me **infatuate** deeply, hearing one of their song can get the power.
-
-Along him were the chubby and mischievous Sanjoo, and the lanky Rajat, ready with his characteristic **smirk**.
 
 But these measures may not be sufficient to **avert** disaster.
 
@@ -211,8 +199,6 @@ And yet I **succumb** to watching it.
 Sperm are worthless. Men are free to waste them, **squirt** them this way and that.
 
 Her wife was murdered during her **captivity** after caught in a drug trade 8 years before. The killer was a damn drunk cop who hit her with a beer bottle. 
-
-You can't **shirk**, it's your duty.
 
 Do not **spurn** your portion, which you redeemed for yourself out of Egypt.
 
@@ -272,13 +258,9 @@ Hidden below the **placid** atmosphere, a **fiery** war is in carefully preparat
 
 AIDS and cancer are maladies that **afflict** humanity.
 
-It is not just ears that are affected by the brain's **criss-cross** method of controlling the body.
-
 He goes on to claim that the purpose of his *alleged* *abduction* was to **discredit** Iran and its nuclear program.
 
 **Extravagant** people never save money.
-
-I was checking out your site before I went to work, and there was this cat (orange **stripe** I think) sitting in that box next to your bookcase.
 
 Ultra-running is like that – it can take you to emotional extremes; joy then depression, euphoric highs followed by **crippling** lows.
 
@@ -303,8 +285,6 @@ So how do they overcome color-blindness to achieve their **camouflage**?
 Legions of birds swarm above looking to **swoop** in to grab the mackerel pike scattered all over the wreckage.
 
 The jubilant **throng** is like the waves of the sea.
-
-The *spade* sank into a **clump** of bush.
 
 He didn’t stare into her eyes or **smother** her the way Barry had, but he made it clear that he was available.
 
@@ -345,8 +325,6 @@ The white floodlight shines through the **wispy** tule and makes thin shadows.
 The undertaking was not easy, she said, but it felt **imperative**.
 
 The more I formerly admired you for your penetration and *acuteness* of mind, the more do I now weep for you and **deplore** you.
-
-You never know when an annoying person borrows this on the **pretext** of needing a pen and never return it.
 
 The current **turmoil** is a contest over whether religion or the State should have the upper hand, and whether politicians or the army should represent the State.
 
