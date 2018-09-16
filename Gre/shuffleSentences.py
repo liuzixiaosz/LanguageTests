@@ -4,15 +4,18 @@ import random
 
 words_url = "./Words/Words.md"
 
-file = open(words_url, "r+")
+f = open(words_url, "r+")
 sentences = []
 
-if __name__ == "__main__":
-    sentences = file.readlines()
+def main():
+    sentences = f.readlines()
     random.shuffle(sentences)
-    file.seek(0, 0)
-    file.truncate()
+    f.seek(0, 0)
+    f.truncate()
     for each_line in sentences:
         if each_line != "\n":
-            file.write(each_line + "\n")
-    file.close()
+            f.write(each_line + "\n")
+    f.close()
+
+if __name__ == "__main__":
+    main()

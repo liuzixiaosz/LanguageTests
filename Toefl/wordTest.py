@@ -110,6 +110,7 @@ def test(sentences, all_len):
         if a == "y\n":
             rem.append(sen)
     return rem
+    
 def group_sentences(all_sentences):
     grouped = []
     clustered = []
@@ -122,15 +123,13 @@ def group_sentences(all_sentences):
         grouped.append(clustered)
     return grouped
 
-if __name__ == "__main__":
-
+def main():
+    global cnt
     with open(file_path, "r") as f:
         all_sentences_raw = f.readlines()
         print("reading...")
         all_sentences = list(set(all_sentences_raw))
         all_sentences.remove('\n')
-        if input("shuffle?(y/other)") == "y":
-            random.shuffle(all_sentences)
         print("Total sentences: %d" % len(all_sentences))
         sentences_grp = group_sentences(all_sentences)
         for clu in sentences_grp:
@@ -140,5 +139,8 @@ if __name__ == "__main__":
                 for r in rem:
                     clu.remove(r)
                 cnt -= len(clu)
+
+if __name__ == "__main__":
+    main()
 
         

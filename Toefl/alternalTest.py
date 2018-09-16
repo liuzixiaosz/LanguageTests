@@ -16,8 +16,7 @@ def read_all():
             all_alt = sepered[1].strip()
         dict[sepered[0]] = all_alt
 
-
-if __name__ == '__main__':
+def main():
     read_all()
     items_arr = []
     for k, v in dict.items():
@@ -44,3 +43,6 @@ if __name__ == '__main__':
                 word = "#"
             print("%s/%s" % (cnt, len(alt_arr)))
         print("-")
+        
+if __name__ == '__main__':
+    main()

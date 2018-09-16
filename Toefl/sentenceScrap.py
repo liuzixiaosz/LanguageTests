@@ -38,13 +38,9 @@ def get_index(txt, word):
 
 def get_sentence(word):
     try:
-        # 利用GET获取输入单词的网页信息
         r = requests.get(url=url % word)
-        # 利用BeautifulSoup将获取到的文本解析成HTML
         soup = BeautifulSoup(r.text, "lxml")
-        # 获取字典的标签内容
         s = soup.find(id='bilingual')('ul')[0]('li')
-        # 输出字典的具体内容
         for item in s:
             if item.text:
                 txt = str(item.text)
@@ -66,12 +62,17 @@ def get_sentence(word):
     except Exception:
         sys.stderr.write("Sorry, error happens\n")
         print('-' * 40)
+        while(input("continue?(y)") != "y"):
+            continue
 
-
-if __name__ == '__main__':
+            
+def main():
     for f in files:
         f.seek(0, 2)
     while True:
         get_sentence(input())
-        for f in files:
-            f.flush()
+    for f in files:
+        f.flush()
+
+if __name__ == '__main__':
+    main()
