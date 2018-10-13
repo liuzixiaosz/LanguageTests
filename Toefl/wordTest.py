@@ -8,6 +8,96 @@ bing_url = "http://cn.bing.com/dict/search?q=%s"
 cluster = 5
 cnt = 0
 
+#   格式：\033[显示方式;前景色;背景色m
+#   说明:
+#
+#   前景色            背景色            颜色
+#   ---------------------------------------
+#     30                40              黑色
+#     31                41              红色
+#     32                42              绿色
+#     33                43              黃色
+#     34                44              蓝色
+#     35                45              紫红色
+#     36                46              青蓝色
+#     37                47              白色
+#
+#   显示方式           意义
+#   -------------------------
+#      0           终端默认设置
+#      1             高亮显示
+#      4            使用下划线
+#      5              闪烁
+#      7             反白显示
+#      8              不可见
+#
+#   例子：
+#   \033[1;31;40m    <!--1-高亮显示 31-前景色红色  40-背景色黑色-->
+#   \033[0m          <!--采用终端默认设置，即取消颜色设置-->]]]
+
+
+STYLE = {
+        'fore':
+        {   # 前景色
+            'black'    : 30,   #  黑色
+            'red'      : 31,   #  红色
+            'green'    : 32,   #  绿色
+            'yellow'   : 33,   #  黄色
+            'blue'     : 34,   #  蓝色
+            'purple'   : 35,   #  紫红色
+            'cyan'     : 36,   #  青蓝色
+            'white'    : 37,   #  白色
+        },
+
+        'back' :
+        {   # 背景
+            'black'     : 40,  #  黑色
+            'red'       : 41,  #  红色
+            'green'     : 42,  #  绿色
+            'yellow'    : 43,  #  黄色
+            'blue'      : 44,  #  蓝色
+            'purple'    : 45,  #  紫红色
+            'cyan'      : 46,  #  青蓝色
+            'white'     : 47,  #  白色
+        },
+
+        'mode' :
+        {   # 显示模式
+            'normal'    : 0,   #  终端默认设置
+            'bold'      : 1,   #  高亮显示
+            'underline' : 4,   #  使用下划线
+            'blink'     : 5,   #  闪烁
+            'invert'    : 7,   #  反白显示
+            'hide'      : 8,   #  不可见
+        },
+
+        'default' :
+        {
+            'end' : 0,
+        },
+}
+
+
+def usestyle(string, mode = '', fore = '', back = ''):
+    #作者：JeanCheng
+    #来源：CSDN
+    #原文：https://blog.csdn.net/gatieme/article/details/45439671?utm_source=copy
+    #版权声明：本文为博主原创文章，转载请附上博文链接！
+
+    mode  = '%s' % STYLE['mode'][mode] if mode in STYLE['mode'].keys() else ''
+
+    fore  = '%s' % STYLE['fore'][fore] if fore in STYLE['fore'].keys()else ''
+
+    back  = '%s' % STYLE['back'][back] if back in STYLE['back'].keys() else ''
+
+    style = ';'.join([s for s in [mode, fore, back] if s])
+
+    style = '\033[%sm' % style if style else ''
+
+    end   = '\033[%sm' % STYLE['default']['end'] if style else ''
+
+    return '%s%s%s' % (style, string, end)
+
 class MyBuff:
     def __init__(self, size):
         self.__size = size
@@ -67,8 +157,8 @@ def query(word):
     def get_item(ele_arr):
         for item in ele_arr:
             if item.text:
-                print(item.text)
-        print('-' * 40)
+                print(usestyle(item.text, mode='bold', fore='green', back='black'))
+        print(usestyle('-' * 40, mode='normal', fore='cyan', back='black'))
 
     try:
         r = requests.get(url=youdao_url % word)
@@ -91,10 +181,10 @@ def test(sentences, all_len):
     rem = []
     for sen in sentences:
         cnt += 1
-        print("%d/%d" % (cnt, all_len))
+        print(usestyle("%d/%d" % (cnt, all_len), mode='normal', fore='green', back='black'))
         bolds, italics = treatline(sen)
-        print(sen)
-        print(str(bolds) + " " + str(italics))
+        print(usestyle(sen, mode='bold', fore='white', back='black'))
+        print(usestyle(str(bolds) + " " + str(italics), mode='bold', fore='yellow', back='black'))
         print("remembered?(y/Enter)")
         a = sys.stdin.readline()
         while a != "\n" and a != "y\n":
@@ -102,15 +192,15 @@ def test(sentences, all_len):
         for b in bolds:
             query(b)
             threading.Thread(target=lambda: os.system("say %s" % b)).start()
-        print('=' * 40)
+        print(usestyle('=' * 40, mode='normal', fore='cyan', back='black'))
         for i in italics:
             query(i)
             threading.Thread(target=lambda: os.system("say %s" % i)).start()
-        print("*" * 40 + "\n")
+        print(usestyle('*' * 40 + '\n', mode='normal', fore='cyan', back='black'))
         if a == "y\n":
             rem.append(sen)
     return rem
-    
+
 def group_sentences(all_sentences):
     grouped = []
     clustered = []
@@ -131,9 +221,12 @@ def main():
         all_sentences = list(set(all_sentences_raw))
         all_sentences.remove('\n')
         print("Total sentences: %d" % len(all_sentences))
+        shuf = input("shuffle? (y/other)")
+        if shuf == 'y':
+            random.shuffle(all_sentences)
         sentences_grp = group_sentences(all_sentences)
         for clu in sentences_grp:
-            print("new group starts!")
+            print(usestyle('new group starts', mode='normal', fore='red', back='black'))
             while len(clu) > 0:
                 rem = test(clu, len(all_sentences))
                 for r in rem:
@@ -143,4 +236,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-        
+

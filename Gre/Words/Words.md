@@ -1640,10 +1640,6 @@ For her part, though, Ono found the **epithet** less than distressing.
 
 They have to **adulterate** a Chinese sentence with words taken from English or Malay.
 
-An **eclipse** is an interesting phenomenon.
-
-Rubber is an **elastic** material.
-
 Caution and experimentation is called for, as liberal settings can lead to **spurious** detection results.
 
 Do you **plod** through the day at the office?
