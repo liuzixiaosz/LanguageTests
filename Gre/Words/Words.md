@@ -312,8 +312,6 @@ First, simply, it was a matter of face, of reducing its **pariah**-state image �
 
 You can therefore easily grant, allow, or **revoke** specific privileges for each user or group specified.
 
-But unlike China, he will spend money too liberally to **accumulate** much wealth.
-
 “When you **distill** your own liquor, sometimes you end up with a bad batch,” whispered Tom.
 
 Classes with a **plethora** of imports have many unique types.
@@ -2769,8 +2767,6 @@ Mr Mugabe, **sycophant**-surrounded and with his own foreign-currency wallet, is
 Since the Saud family sent its sons to Princeton and Georgetown, Muhammad educated many of his own sons in the West, too, starting with Salem, his impious and **ribald** successor.
 
 She demanded ＄ 1000 **blackmail** from him.
-
-I want to **reiterate** that we welcome all riders on our system.
 
 The livestock sector is already eligible for carbon finance, but we have made no such progress for **arable** agriculture and soils.
 
@@ -5317,8 +5313,6 @@ They laid their objections to paper in a document called the Flushing **Remonstr
 None of these **heterodox** options are available to Ireland, say the wise heads.
 
 You all have within you the power of God, and we call upon you to allow that recognition, that renewed self acceptance, that **immaculate** LOVE to wash over you.
-
-Don't put me off when I'm trying to **concentrate**.
 
 In support of Western policy aimed at bolstering Fatah and at forcing Hamas to recognise Israel and **renounce** violence, Egypt has joined with Israel to enforce its blockade on Gaza.
 

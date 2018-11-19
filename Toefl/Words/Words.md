@@ -2,8 +2,6 @@ The melting glaciers hide the **diminution** of the rains.
 
 For more than a year, British intelligence officers have been instigating contacts with Taliban commanders and their **entourage**.
 
-The jubilant **throng** is like the waves of the sea.
-
 A magician uses **deception**.
 
 It ahs often been noted that those who live, or have lived, in the shadow of death bring a **mellow** sweetness to everything they do.
@@ -72,13 +70,7 @@ So how do they overcome color-blindness to achieve their **camouflage**?
 
 We should **tout** our wares on television.
 
-**Endowing** the *distrusted* team member, for example Neo, more confidence, he can catch the undercover even more easily on his concern. 
-
 But these measures may not be sufficient to **avert** disaster.
-
-You are pleased to **scoff**.
-
-In this method, the relationship of risk management and the key project measurements is **tenuous**.
 
 Socialize with friends, but don't overspend on **lavish** entertainment.
 
@@ -91,8 +83,6 @@ Only flow .... The power is IN the flow, and each drop of water is **pliant** an
 President Obama is right about the need for more responsibility, but for those of you who have been responsible, this is the time to disregard those **puritanical** whispers and buy something fun.
 
 Against that time do I **ensconce** me here.
-
-She is very **conscientious** and never *skimps* her work.
 
 That, someone should have pointed out, is the result not of **rampant** globalisation but of poor domestic government.
 
@@ -134,13 +124,9 @@ The bed, the mirror, the white jug and basin **gleam** like the sky outside.
 
 You are learning true **obedience** and deference.
 
-In fact, her **constricted** view of the world was integral to her artistic vision.
-
 He was assembling a complication that sent a little gilded boy with a trumpet through a door in the clock face to **herald** the birthdays of its owner's family.
 
 We'll see,' was her reply, and she set off at a **gallop**, leaving me to toil in the rear.
-
-The **thorn** of bone may dislodge from his throat without surgery.
 
 He has not a single **provocative** habit, and enjoys **copious** respects from his colleagues. 
 
@@ -149,8 +135,6 @@ Why do we **clutch** at this baggage,even when were desperate to move on?
 Some systems, especially those that involve the integration of custom hardware with software, may not be **amenable** to using Small Releases.
 
 I find it humorous sometimes that even the most **mundane** occurrences can have an impact on our awareness.
-
-Language difference and a **preponderance** of statues aside, the Jawa Pos felt like any other newsroom of a large daily.
 
 Since he engaged Iran, it has continued to temporize and **dissimulate** over its nuclear programme.
 
@@ -190,8 +174,6 @@ Whenever a car backfires, I have to **coax** them out from under the couch.
 
 In the mean time, there is another undercover inside the police office. Smith, spent 5 years in the high level management. He is as **abysmal** as Neo and is considered as a **girder** both for the police office and for Eric. 
 
-The clerks are **courteous**.
-
 Protection in vaccinated individuals will **wane** after a year or two, so protection against Lyme disease in previously vaccinated people will be nonexistent.
 
 After the **slog** of the previous 12 years they feel they deserve a break.
@@ -207,8 +189,3 @@ Legions of birds swarm above looking to **swoop** in to grab the mackerel pike s
 AIDS and cancer are maladies that **afflict** humanity.
 
 Some of animals **slough**, such as snake, cicada, and so on.
-
-So the police must **repress** these freedoms.
-
-With her **glossy** mane of dark hair, pouting lips and sparkling green eyes, it is true that she is strikingly beautiful and does, as boasted, bear an uncanny resemblance to the film star.
-
