@@ -544,7 +544,7 @@ Modeling experiments told the researchers that an asymmetrical deflection of lig
 
 But is it possible for a nation to atone for atrocities it committed?
 
-She speaks French with an atrocious accent.
+She speaks French with an **atrocious** accent.
 
 “Maybe one day this could be a way to **attenuate** the monsoon or reduce flooding in certain areas, ” Kasparian said.
 

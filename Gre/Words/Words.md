@@ -1106,8 +1106,6 @@ SCARLETT: Oh, you really are the most **ill-bred** man to come here at
 
 In such a **jocund** company!
 
-It is a crime to **counterfeit** money.
-
 The centerpiece of the project, is a 20 centimeter limited edition **figurine** picked out in nearly 20,000 crystals -- and carrying a price tag of nearly 15 thousand US Dollars.
 
 I simply **adore** the way your hair is done!
@@ -2032,8 +2030,6 @@ A hole was torn in your jacket. Let me **stitch** up the torn jacket for you.
 
 The enemy met with a **repulse**.
 
-One of the most **salient** features of our culture is that there is so much [bull].
-
 I am not against **Agility**.
 
 This is the **crux** of the matter.
@@ -2575,8 +2571,6 @@ The park, a collection of crumbling buildings around a **fetid** pond, is now cl
 Using its front legs the giant water bug gripped the turtle inserting its syringe-like **rostrum** into the prey's neck in order to feed.
 
 Then he is **malevolent**.
-
-The government succeeded in quenching the **riot**.
 
 Reading is a quiet activity and it will often induce sleep in the **supine** position. Especially if it's a dreary textbook or work paper.
 
@@ -4188,7 +4182,7 @@ Health education that focuses on diet and exercise but does not **stigmatize** o
 
 Here is where I beg, in **cloying** tones, that we teach the children to learn from these mistakes.
 
-She speaks French with an atrocious accent.
+She speaks French with an **atrocious** accent.
 
 While we try to distract ourselves, a **covert** search is underway, monitoring our heads for any inkling of that unwanted thought.
 
