@@ -138,7 +138,8 @@ def default_get_item(ele_arr):
 
 def main():
     while 1:
-        lookup(input(), default_get_item, 0, 1, 2)
+        #lookup(input(), default_get_item, 0, 1, 2)
+        lookup(input(), default_get_item, 0)
 
 if __name__ == '__main__':
     main()

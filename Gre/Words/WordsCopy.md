@@ -2598,7 +2598,7 @@ This allowedFrege to **inaugurate** some profound developments in the philosophy
 
 It may be sad to think that we no longer have domestic sources of steel flatware, rebar, and **incandescent** bulbs.
 
-"Don't be evil" is a vague incantation.
+"Don't be evil" is a vague **incantation**.
 
 Do you believe that Jesus is God **incarnate**, God in the flesh?
 

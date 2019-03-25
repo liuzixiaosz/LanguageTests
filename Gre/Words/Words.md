@@ -1,7 +1,5 @@
 China would try to push American power as far away from its borders as it could, **circumscribe** the scope of American naval power, and reduce America's weight in international diplomacy.
 
-We **aggregate** each layer and express it as some percentage of the previous layer.
-
 Even then it took a sympathetic bankruptcy judge to convince a group of **recalcitrant** lenders that it was in their best interest to drop their opposition.
 
 We only feel **ticklish** if we detect a sense of invasion or attack.
@@ -17,8 +15,6 @@ In London, winter and spring are barely distinguishable, because the clouds **mu
 In this step, you create an **extraction** request to define the **extraction** and then run the request.
 
 Be modest and **prudent**， never lag behind!
-
-**Stabilize** your feet.
 
 If your craft is powered by solid or liquid fuel, chances are it will ignite and **incinerate** you.
 
@@ -632,18 +628,6 @@ After midnight she stands there in her black rig rooted to the spot. Back of her
 
 There are only about 2, 500 in total -- and they are being snapped up at both a **torrid** rate and at jaw-dropping prices.
 
-We shouldn't **slight** anybody even if he's a nobody.
-
-The path is paved with **concrete** slabs.
-
-However, partitioning a system from only one perspective will not likely **facilitate** the allocation of all stakeholder needs.
-
-Tourism consumption has increased for the new middle class of China trying to **retouch** their roots.
-
-Whatever course you have set for development, that course possesses **discrete** processes.
-
-Doom and gloom seem to **incubate** a hunger for the blackest of humour.
-
 As for the Rhinoceros, in token of their grateful adherence, they had him killed and stuffed directly, and then set him up outside the door of their father's house as a **Diaphanous** Doorscraper.
 
 Some reckon its failure to unearth masses of new information is down to a mix of **mendacious** reticence on the part of key witnesses and the pusillanimity of their inquisitors.
@@ -667,8 +651,6 @@ Sand dunes **sprawl** along the coast of northeastern Brazil, sometimes extendin
 Their **clandestine** mission: to get you to the fun faster.
 
 This concept appears in manufacturing where they count both scrap and **inventory**.
-
-The police grabbed the robbers after a long **chase**.
 
 They try to blow up marketing myths that **debilitate** companies.
 
@@ -726,11 +708,7 @@ You just need to know how to **harness** them.
 
 But before Japanese bosses celebrate, they may want to consider that this golden opportunity is hardly the result of business **perspicuity** .
 
-It's hard to pilot a **vessel** in rough weather.
-
 Pick one program, course or mentor you resonate with and stick with it.
-
-Also, heat treating can make a metal softer and more **ductile**.
 
 No and No! There is a **nascent** profession perhaps, but it is not there yet.
 
@@ -886,8 +864,6 @@ He was tortured by **guilt**.
 
 Rather, they are a thick, **murky** fog of thoughts and feelings that slowly but steadily eclipse my optimism.
 
-“We shall **prevail** and they shall not,” he said.
-
 I often do yoga, so I'm quite **supple**.
 
 But there’s nothing in [today’s] homes allowing them to do that in a healthy, safe or **conducive** way.
@@ -1009,8 +985,6 @@ But don't expect this to be endorsed by **orthodox** medicine there's no profit 
 Above all, it requires clairvoyant souls—that is, without **solace**.
 
 If the hypothesis does not match the observations, you must **revise** your hypothesis.
-
-He can use his gifts, and not **abuse** them.
 
 No wonder they drink, smoke, fight, **carouse** and otherwise engage in inappropriate social behavior.
 
@@ -3414,7 +3388,7 @@ They **suppress** the ingenuity of our people and businesses.
 
 Various explanations are offered for Obama's unfeeling **hauteur** and Europe's consequent heartache.
 
-"Don't be evil" is a vague incantation.
+"Don't be evil" is a vague **incantation**.
 
 The fees and **penalty** charges ballooned.
 
@@ -3981,8 +3955,6 @@ An unfortunate mistake that many organizations make is to jump **headlong** into
 Mother made me **scour** the family silver.
 
 Modern Maya in Guatemala and Mexico have also rushed to **debunk** the "prophesy".
-
-"We were speaking of a **hypothetical** case," I reminded him frostily.
 
 When I became a teenager I got very **squeamish**, and that interest totally disappeared.
 
@@ -4570,8 +4542,6 @@ It is the summer of 1571, and this swap of silk for silver—the beginning of an
 
 Yet the big brewers have been **parsimonious** in their marketing budgets, typically investing just 10% or so of their revenues, compared with around 15% at companies like Unilever and Procter &Gamble.
 
-"I have called on leaders not to take measures that **distort** trade and push up prices, " he said.
-
 The computer's value will **depreciate** by $500 in the first year.
 
 Why you look so **gloomy**? What are you looking for?
@@ -4583,8 +4553,6 @@ A **distal** motivation was my nagging concern over the usability of years of ac
 But as Tuesday wore on, it decided that “market supply and demand” needed a bit of a **nudge**. 
 
 He now thinks this influence was **baleful**.
-
-Perhaps, but the contrast is **ambiguous** and unclear.
 
 I am inclined to believe in the legendary **bravado**, in that mad laughter of the healthy man provoking a non-existent God.
 
@@ -4669,8 +4637,6 @@ Ginger Tea - Ginger, being a natural **analgesic** and antipyretic, can help red
 Sex is used by histrionics to prop up their self-esteem and to regulate their **labile** sense of self-worth.
 
 In general, only one third of health facilities have **potable** water, and just one in four remain linked to the general sewerage system or to a power supply.
-
-First, is the increase merely **nominal**, or have real commodity prices also been rising?
 
 Conclusion:Nifedipine could **distend** ophthalmic artery and has similar function on other micro-cerebral vessels.
 

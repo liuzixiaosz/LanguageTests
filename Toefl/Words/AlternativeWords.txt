@@ -3,7 +3,7 @@ interesting:amusing,meaningful
 fast:rapid,speedy
 slow:tardy
 bad:nauseous,objectionable,offensive,unpleasant,intolerable,horrible,obnoxious,terrible,awful,dreadful,vile,depraved,evil,wicked,corrupted,immoral,dissolute,dishonest,depraved,victious
-good:fabulous,virtuous,enjoyable,splendid,superb,fantastic,impressive,grand,magnificant,significant,agreeable,pleasurable,gratifying,considerate
+good:fabulous,virtuous,enjoyable,splendid,superb,fantastic,impressive,grand,magnificant,significant,agreeable,pleasurable,gratifying,considerate,remarkable,outstanding,transcendent
 because:since,as a consequence of,as a result of,due to,owing to,on account of,thanks to
 therefore:consequently,as a consequence,subsequently,accordingly
 however:on the other hand,conversely,alternatively,in contrast,whereas,while,nonetheless,nevertheless,thereby,by this means
@@ -15,11 +15,11 @@ finish:accomplish,achieve,complete,finalize,conclude
 way:method,technique,condition,mean
 real:authentic,genuine,indisputable,unadulterated,sincere,existent
 agree:consent,permit,concur,correspond,coincide
-boring:bland,insipid,adj.uninteresting,tedious,dull,dreary,mind-numbing
+boring:bland,insipid,uninteresting,tedious,dull,dreary,mind-numbing
 same:congrent,consistent,matching,identical
 different:incongruent,diverse,become poles apart
 praise:extol,exalt,eulogize,admire
-important:cardinal,vital,critical,imperative,essential,chief,crucial,authoritative
+important:cardinal,vital,critical,imperative,essential,chief,crucial,authoritative,cardinalz
 capable:adroit,skillful,numble
 make bad:deteriorate,adroit,depreciate,deflate
 among:amid,in the midst of
@@ -27,7 +27,7 @@ basic:rudimentary,elementary,fundamental
 cancel:withdraw,scrach
 deny:disprove,refute,negate,contradict,disavow
 agree:espouse,approve,endorse
-stop:thwarts,forestall,impede,hinder
+stop:thwarts,forestall,impede,hinder,obstruct,balk,halt,terminate
 illustrate:signify,formulate,maintain,affirm
 after that:henceforth,thereafter
 despite:notwithstanding,regardless of
@@ -49,3 +49,14 @@ ensure:ascertain,affirm,assert,notarize
 relevant:pertinent,correlative,interrelated,associative
 totally:sweeping,entirely,thoroughly
 popular:prevailing,of mainstream
+include:encompass,cover
+prove:manifest,testify
+remove:strip,obliterate
+enthusiastic:passionate,vibrant
+arrange:dispose
+damage:impair,weaken
+best:optimal
+quiet:tranquil
+support:uphold
+most:utmost,extreme
+decrease:decline,abate,lessen,cut off
